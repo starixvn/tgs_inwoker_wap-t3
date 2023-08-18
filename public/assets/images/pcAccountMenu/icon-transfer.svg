@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="Group_4022" data-name="Group 4022" transform="translate(4346 -303)">
+    <g id="Group_3354" data-name="Group 3354" transform="translate(-4659 -367)">
+      <g id="Group_81" data-name="Group 81" transform="translate(315 672)">
+        <rect id="Rectangle_37_Copy_17" data-name="Rectangle 37 Copy 17" width="24" height="24" fill="none"/>
+        <g id="retweet" transform="translate(1.547 1.523)">
+          <path id="Shape" d="M7.451,20.7,3.146,16.394a.847.847,0,0,1,0-1.2l4.183-4.183a.844.844,0,0,1,1.193,1.193L5.729,15h8.179a5.314,5.314,0,0,0,5.314-5.314.845.845,0,0,1,1.689,0,7,7,0,0,1-7,7H5.827l2.82,2.82a.844.844,0,0,1-1.2,1.192ZM0,11.259a7,7,0,0,1,7-7h8.084L12.265,1.441A.844.844,0,0,1,13.458.248l4.308,4.306a.851.851,0,0,1,.246.6.84.84,0,0,1-.246.6L13.582,9.932a.844.844,0,0,1-1.2-1.193l2.792-2.794H7a5.313,5.313,0,0,0-5.311,5.314.844.844,0,0,1-1.687,0Z" transform="translate(0 0.015)" fill="#cf2029"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_1010" data-name="Rectangle 1010" width="28" height="28" transform="translate(-4346 303)" fill="none"/>
+  </g>
+</svg>

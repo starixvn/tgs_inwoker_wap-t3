@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_4581" data-name="Group 4581" transform="translate(-729 -731)">
+    <g id="Group_4578" data-name="Group 4578" transform="translate(729 731)">
+      <rect id="Rectangle_45_Copy_21" data-name="Rectangle 45 Copy 21" width="30" height="30" fill="none"/>
+      <path id="Subtraction_1054" data-name="Subtraction 1054" d="M18.307,26.987a8.683,8.683,0,0,1-6.859-14L.32,1.852A1.079,1.079,0,0,1,.32.318,1.065,1.065,0,0,1,1.085,0a1.072,1.072,0,0,1,.768.318L12.981,11.447a8.685,8.685,0,0,1,14.006,6.86,8.681,8.681,0,0,1-8.68,8.68Zm0-15.193a6.512,6.512,0,1,0,4.6,1.907A6.468,6.468,0,0,0,18.3,11.794Z" transform="translate(1.504 1.5)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path" d="M1.193,3.231,2.984,1.441A.844.844,0,1,0,1.791.248L0,2.038,1.193,3.231Z" transform="translate(9.09 4.884)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

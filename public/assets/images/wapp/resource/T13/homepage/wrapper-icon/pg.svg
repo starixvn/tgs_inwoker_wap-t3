@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41.436" height="38.415" viewBox="0 0 41.436 38.415">
+  <defs>
+    <filter id="Path_841" x="0" y="0" width="31.168" height="38.415" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="red" flood-opacity="0.439"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_842" x="8.201" y="0" width="33.234" height="31.315" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="red" flood-opacity="0.439"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_4036" data-name="Group 4036" transform="translate(-101.515 137.326)">
+    <g transform="matrix(1, 0, 0, 1, 101.51, -137.33)" filter="url(#Path_841)">
+      <path id="Path_841-2" data-name="Path 841" d="M118.12-119.5H122.2l-5.783-9.824h-6.9l11.939,20.414,1.229-2.613Zm-1.751-2.4-2.743-5.147h1.646l2.8,5.147Z" transform="translate(-101.51 137.32)" fill="#ff000d"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 101.51, -137.33)" filter="url(#Path_842)">
+      <path id="Path_842-2" data-name="Path 842" d="M147.33-129.326H132.1l7.649,13.314,5.413-9.58h-7.9l-.784-1.28h9.411Zm-6.34,6.034-1.176,2.456-1.489-2.456Z" transform="translate(-115.89 137.33)" fill="#ff000d"/>
+    </g>
+  </g>
+</svg>

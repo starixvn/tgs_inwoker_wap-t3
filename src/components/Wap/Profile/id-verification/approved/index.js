@@ -1,0 +1,32 @@
+import React from "react";
+import { connect } from "react-redux";
+import { withRouter } from "react-router-dom";
+import Textbox from "../../../Share/Textbox";
+import i18n from "../../../../../utils/i18n";
+import BaseProfile from "./../../BaseProfile";
+import config from "../../../../../config/config";
+
+class Approved extends BaseProfile {
+  render() {
+    return (
+      <React.Fragment>
+        <Textbox
+          style={{ margin: "50px auto 20px auto" }}
+          value={this.props.account.info.member_name}
+          placeholder={i18n.t("profile.nameVerify.title")}
+          label={i18n.t("profile.nameVerify.title")}
+          disabled={true}
+          maxLength={256}
+        ></Textbox>
+      </React.Fragment>
+    );
+  }
+}
+
+const mapStateToProps = (state) => {
+  return {
+    account: state.account,
+  };
+};
+
+export default connect(mapStateToProps, "")(withRouter(Approved));

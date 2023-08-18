@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.847" height="39.334" viewBox="0 0 39.847 39.334">
+  <defs>
+    <filter id="Path_200" x="0" y="0" width="39.847" height="39.334" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-color="red" flood-opacity="0.549"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_200)">
+    <path id="Path_200-2" data-name="Path 200" d="M342.158,91.97V90.291H325.485V91.97H321.4v2.8a7.938,7.938,0,0,0,7.233,7.912,7.531,7.531,0,0,0,4,2.211h0V106.2h-3v2.617h-2.865v5.808H340.88v-5.808h-2.865V106.2h-3v-1.309h0a7.531,7.531,0,0,0,4-2.211,7.938,7.938,0,0,0,7.233-7.912v-2.8Zm-19.375,2.8V93.354h2.7v.982h0s0,0,0,.006V94.6h0a12.533,12.533,0,0,0,1.83,6.407A6.571,6.571,0,0,1,322.783,94.768Zm13.985,6.334L333.83,99.16l-2.938,1.942.939-3.394-2.755-2.194,3.518-.156,1.236-3.3,1.236,3.3,3.518.156-2.755,2.194Zm8.093-6.334a6.571,6.571,0,0,1-4.535,6.24,12.533,12.533,0,0,0,1.83-6.407h0v-.258s0,0,0-.006h0v-.982h2.7Z" transform="translate(-314.9 -83.79)" fill="#cf2029"/>
+  </g>
+</svg>
